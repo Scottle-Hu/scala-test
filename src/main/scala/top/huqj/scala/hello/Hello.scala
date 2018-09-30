@@ -1,4 +1,4 @@
-package scala
+package top.huqj.scala.hello
 
 /**
   * Created by huqj on 2018/9/30.
